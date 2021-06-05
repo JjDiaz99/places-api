@@ -1,0 +1,38 @@
+[
+    {
+        "coordinates": {
+            "lat": 6.494035,
+            "lng": -75.739653
+        },
+        "name": "Sopetran",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Iglesia-Sopetr%C3%A1n.jpg",
+        "label": "La aventura en Sopetrán estuvo divertida; Cuando todos estaban en la piscina, yo estaba pasándola como nunca. Fue de las mejores experiencias."
+    },
+    {
+        "coordinates": {
+            "lat": 5.756633,
+            "lng": -75.605947
+        },
+        "name": "La Pintada",
+        "img": "https://lh3.googleusercontent.com/proxy/28ol6ldQ74QEgnuQhGkbP9fMq5kkMDM4f5aP_RMG-U-0bNKESPwqqVdtJpibQUMqKM8XJA2eBmhHA_JP78KewdI8rUNO0uFb-Q9DcpPV7Scbncp7MTLTicMuDNN9c07tQ7CKZuOh63axOKnwOLJa5tCiSk0ytpWk5A",
+        "label": "Aquí fue en un plan con unos amigos, plan parejas, y fue una completa aventura. "
+    },
+    {
+        "coordinates": {
+            "lat": 6.348959,
+            "lng": -75.420539
+        },
+        "name": "Glamping Villa Santa",
+        "img": "https://dondecelebrar.com/wp-content/uploads/job-manager-uploads/field_cfwjm2357/2021/04/155007117_3022600067968006_5179204924839094768_n.jpg",
+        "label": "Con la adrenalina a tope, pues estábamos a la espera de la comida que la iban a traer justo en ése momento ¬u¬"
+    },
+    {
+        "coordinates": {
+            "lat": 6.141009,
+            "lng": -75.618393
+        },
+        "name": "Casita",
+        "img": "https://lahaus.imgix.net/uploads/real_estate_attachment/picture/2178956/sabana_alta_apartamento_en_venta_en_loma_de_san_jose_con_acceso_a_piscina_gallery_731235872880800e3e34.php?auto=compress%2Cenhance%2Cformat&q=25&w=auto&h=auto&fit=crop&crop=edges",
+        "label": "Casi todas las veces han sido aquí, sin embargo, algunas han sido de otro mundo"
+    }
+]
